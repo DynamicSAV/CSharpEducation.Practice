@@ -2,13 +2,14 @@
 
 class Program
 {
-    private int age;
-    private string name;
-    private string companyName;
-    private bool isBoy;
-    private float bodyWeight;
+  private int age;
+  private string name;
+  private string companyName;
+  private bool isBoy;
+  private float bodyWeight;
+  
+  static void Main(string[] args)
+  {
     
-    static void Main(string[] args)
-    {
-    }
+  }
 }
