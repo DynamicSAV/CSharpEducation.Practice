@@ -2,8 +2,8 @@
 
 public class Person(string name, int age)
 {
-  private string name = name;
-  private int age = age;
+  private string name { get; } = name;
+  private int age { get; } = age;
 
   public void PrintPerson()
   {
